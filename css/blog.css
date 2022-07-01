@@ -89,7 +89,7 @@ ul{
   #cardss .card {
     width: 18rem;
   }
-  
+
   #cardss .card .card-body {
     background: #D4D4D4;
     border-radius: 0px 0px 10px 10px;
@@ -156,7 +156,7 @@ ul{
 
   @media (max-width: 426px) {
     .blog-hero-section {
-      width: 375px;
+      width: 385px;
     }
 
     #Latest-Update {
