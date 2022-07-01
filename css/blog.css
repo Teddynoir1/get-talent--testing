@@ -158,15 +158,18 @@ ul{
     }
 
     #Latest-Update {
-      width: 325px;
+      width: 340px;
+      padding: 10px;
     }
 
     #blog-women {
-      width: 320px;
+      width: 340px;
+      padding: 10px;
     }
 
     #women-text {
-      width: 320px;
+      width: 340px;
+      padding: 10px;
     }
     
     #Latest-Update .topnav {
@@ -221,14 +224,17 @@ ul{
 
     #cardss {
       width: 340px;
+      padding: 10px;
     }
     #Recommended-post {
       background: #D4E4FB;      
-      width: 330px;
+      width: 335px;
+      padding: 10px;
     }
 
     #card-five {
       width: 340px;
+      padding: 10px;
     }
     #Recommended-post .Recommended-Post-Body .Recommended-Post-Text h2{
       font-size: 18px;
