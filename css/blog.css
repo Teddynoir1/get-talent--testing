@@ -154,7 +154,7 @@ ul{
 
   @media (max-width: 426px) {
     .blog-hero-section {
-      width: 355px;
+      width: 360px;
     }
 
     #Latest-Update {
@@ -163,7 +163,7 @@ ul{
     }
 
     #blog-women {
-      width: 350px;
+      width: 360px;
       padding: 10px;
     }
 
