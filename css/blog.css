@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    outline: 2px red solid !important;
 }
 
 .blog-hero-section{
@@ -105,8 +106,7 @@ ul{
   }
 
   #Recommended-post {
-    background: #D4E4FB;      
-    width: 320px;
+    background: #D4E4FB;
   }
 
   #Recommended-post .card .card-body .text-grey{
@@ -155,11 +155,11 @@ ul{
 
   @media (max-width: 426px) {
     .blog-hero-section {
-      width: 320px;
+      width: 340px;
     }
 
     #Latest-Update {
-      width: 320px;
+      width: 325px;
     }
 
     #blog-women {
@@ -217,8 +217,20 @@ ul{
 
     #cardss .card {
       margin-bottom: 20px;
+      width: 19rem !important;
     }
 
+    #cardss {
+      width: 340px;
+    }
+    #Recommended-post {
+      background: #D4E4FB;      
+      width: 330px;
+    }
+
+    #card-five {
+      width: 340px;
+    }
     #Recommended-post .Recommended-Post-Body .Recommended-Post-Text h2{
       font-size: 18px;
     }
@@ -232,6 +244,6 @@ ul{
     }
 
     #card-five .cardes {
-      width: 18rem;
+      width: 19rem;
     }
   }
