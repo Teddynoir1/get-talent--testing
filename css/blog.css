@@ -86,8 +86,10 @@ ul{
     background: #2776ea57;
   }
 
-
-
+  #cardss .card {
+    width: 18rem;
+  }
+  
   #cardss .card .card-body {
     background: #D4D4D4;
     border-radius: 0px 0px 10px 10px;
