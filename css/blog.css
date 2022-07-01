@@ -154,7 +154,7 @@ ul{
 
   @media (max-width: 426px) {
     .blog-hero-section {
-      width: 350px;
+      width: 355px;
     }
 
     #Latest-Update {
@@ -219,7 +219,7 @@ ul{
 
     #cardss .card {
       margin-bottom: 20px;
-      width: 22rem !important;
+      width: 21rem !important;
     }
 
     #cardss {
@@ -230,6 +230,7 @@ ul{
       background: #D4E4FB;      
       width: 335px;
       padding: 10px;
+      margin-left: 10px;
     }
 
     #card-five {
@@ -249,6 +250,6 @@ ul{
     }
 
     #card-five .cardes {
-      width: 22rem;
+      width: 21rem;
     }
   }
