@@ -105,7 +105,8 @@ ul{
   }
 
   #Recommended-post {
-    background: #D4E4FB;
+    background: #D4E4FB;      
+    width: 320px;
   }
 
   #Recommended-post .card .card-body .text-grey{
@@ -156,6 +157,18 @@ ul{
     .blog-hero-section {
       width: 320px;
     }
+
+    #Latest-Update {
+      width: 320px;
+    }
+
+    #blog-women {
+      width: 320px;
+    }
+
+    #women-text {
+      width: 320px;
+    }
     
     #Latest-Update .topnav {
       width: 155%;
@@ -189,8 +202,17 @@ ul{
       padding: 0 !important;
   }
 
+  #Latest-Update .Latest-Update-Body .Latest-Update-Text h2{
+      height: 50%;
+    }
+
+    #Latest-Update .topnav-main .search-container {
+    width: 200px;
+    }
+
     #Latest-Update .Latest-Update-Body .Latest-Update-Text h2{
-      font-size: 21px;
+      font-size: 14px;
+      margin-top: 5px;
     }
 
     #cardss .card {
