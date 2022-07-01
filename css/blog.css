@@ -154,21 +154,21 @@ ul{
 
   @media (max-width: 426px) {
     .blog-hero-section {
-      width: 340px;
+      width: 350px;
     }
 
     #Latest-Update {
-      width: 340px;
+      width: 350px;
       padding: 10px;
     }
 
     #blog-women {
-      width: 340px;
+      width: 350px;
       padding: 10px;
     }
 
     #women-text {
-      width: 340px;
+      width: 350px;
       padding: 10px;
     }
     
@@ -219,11 +219,11 @@ ul{
 
     #cardss .card {
       margin-bottom: 20px;
-      width: 19rem !important;
+      width: 22rem !important;
     }
 
     #cardss {
-      width: 340px;
+      width: 350px;
       padding: 10px;
     }
     #Recommended-post {
@@ -233,7 +233,7 @@ ul{
     }
 
     #card-five {
-      width: 340px;
+      width: 350px;
       padding: 10px;
     }
     #Recommended-post .Recommended-Post-Body .Recommended-Post-Text h2{
@@ -249,6 +249,6 @@ ul{
     }
 
     #card-five .cardes {
-      width: 19rem;
+      width: 22rem;
     }
   }
