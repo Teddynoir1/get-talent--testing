@@ -1,0 +1,123 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.blog-hero-section{
+    background-image: url(../img/Group314.png);
+    background-repeat: no-repeat;
+    background-position: center 5%;
+    background-size: cover;
+}
+
+#Latest-Update .container .flex .image-section{
+    width: 100%;
+}
+
+#Latest-Update .container .flex .text-section{
+    width: 70%;
+}
+
+ul{
+    list-style: none;
+}
+
+/* 
+.topnav {
+    overflow: hidden;
+    background-color: #D4E4FB;
+  } */
+  
+  .topnav input[type=text] {
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 13px;
+    border: none;
+    margin-right: 10px;
+    background-color: #D4E4FB;
+    width: 308px;
+    height: 40px;
+    border-left: 5px solid blue;
+    border-radius: 5px;
+}
+  
+  .topnav .search-container button {
+    float: right;
+    padding: 6px 10px;
+    margin-top: 8px;
+    margin-right: 16px; 
+    font-size: 13px;
+    background: #2776EA;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    border-radius: 5px;
+}
+  
+  .topnav .search-container button:hover {
+    background: #2776ea57;
+  }
+
+  #cardss .card .card-body {
+    background: #D4D4D4;
+    border-radius: 0px 0px 10px 10px;
+  }
+
+  #cardss .card .card-body .text-grey{
+    color: #7c7c7c;
+    font-weight: 700;
+    font-size: 16px;
+  }
+  #cardss .card .card-body .link a {
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 16px;
+    float: right;
+  }
+
+  #Recommended-post {
+    background: #D4E4FB;
+  }
+
+  #Recommended-post .card .card-body .text-grey{
+    color: #7c7c7c;
+    font-weight: 700;
+    font-size: 16px;
+  }
+
+  #Recommended-post .card .card-body .link a {
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 16px;
+    float: right;
+  }
+
+
+  #card-five .cardes .card-bodys {
+    background: #D4D4D4;
+    border-radius: 0px 0px 10px 10px;
+  }
+
+  
+  #cards-five .cardes .card-bodys .link a {
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 16px;
+    float: right;
+  }
+
+  #Latest-Update .link a {
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 16px;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
