@@ -86,9 +86,7 @@ ul{
     background: #2776ea57;
   }
 
-  #cardss .card {
-    width: 18rem;
-  }
+  
 
   #cardss .card .card-body {
     background: #D4D4D4;
@@ -156,7 +154,7 @@ ul{
 
   @media (max-width: 426px) {
     .blog-hero-section {
-      width: 385px;
+      width: 370px;
     }
 
     #Latest-Update {
