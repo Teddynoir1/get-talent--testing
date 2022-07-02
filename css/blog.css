@@ -230,8 +230,9 @@ ul{
     }
     #Recommended-post {
       background: #D4E4FB;      
-      width: 70%;
+      width: 330px;
       padding: 10px;
+      margin-left: 40px;
     }
 
     #card-five {
